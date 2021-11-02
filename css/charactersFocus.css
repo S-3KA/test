@@ -98,9 +98,6 @@
   margin-top: 5px;
   width: 100%;
   max-width: 50px;
-  height: -webkit-fit-content;
-  height: -moz-fit-content;
-  height: fit-content;
   margin-right: 10px;
 }
 @media (max-width: 750px) {
