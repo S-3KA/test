@@ -11,7 +11,7 @@
     right: calc(100vw - 100% - 10%);
     bottom: 0;
     width: 100%;
-    max-width: calc(100% - 100vw + 30%);
+    max-width: calc(100% - 100vw + 34%);
 }
 @media (min-width: 1600px) {
     #footer_banner {
