@@ -18,13 +18,13 @@
       right: calc(100vw - 100% - 8%);
     }
   }
-  @media (max-width: 1500px) {
-    #footer_banner {
-      right: calc(100vw - 100% - 11%);
-    }
+@media (max-width: 1500px) {
+  #footer_banner {
+    right: calc(100vw - 100% - 11%);
   }
-  @media (max-width: 1400px) {
-    #footer_banner {
-      display: none;
-    }
+}
+@media (max-width: 1400px) {
+  #footer_banner {
+    display: none;
   }
+}
