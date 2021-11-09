@@ -1,6 +1,9 @@
 .col-12 .row {
   margin-bottom: 20px;
 }
+.col-12 .row * {
+  font-weight: 100;
+}
 @media (max-width: 576px) {
   .col-12 .row .col-xs-12 {
     padding: 0;
@@ -96,6 +99,13 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+}
+.col-12 .row .side_block ul {
+  list-style: none;
+  padding-left: 0;
+}
+.col-12 .row .side_block ul li {
+  margin-bottom: 10px;
 }
 .col-12 .row .side_block img {
   margin-top: 5px;
