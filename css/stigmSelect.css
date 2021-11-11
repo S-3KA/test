@@ -33,6 +33,7 @@ p{
     width: 100%;
     max-width: 75px;
     border-radius: 5px;
+    height: 100%;
 }
 .block p{
     margin-bottom: 5px;
