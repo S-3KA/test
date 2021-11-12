@@ -1,8 +1,11 @@
 .col-12 .row {
   margin-bottom: 20px;
 }
-.col-12 .row * {
+.col-12 .row strong {
   font-weight: 400;
+}
+.col-12 .row * {
+  font-weight: 4 0;
 }
 @media (max-width: 576px) {
   .col-12 .row .col-xs-12 {
@@ -200,8 +203,16 @@
   color: var(--color5);
 }
 
+.tab-content {
+  width: 100% !important;
+}
+
 ._right {
   padding-left: 0px;
+}
+._right a {
+  text-decoration: none;
+  color: var(--color5);
 }
 @media (max-width: 767px) {
   ._right {
