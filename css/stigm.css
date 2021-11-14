@@ -1,0 +1,12 @@
+.block {
+    width: 500px;
+    height: 200px;
+    margin-bottom: 15px;
+    display: flex;
+    background-color: var(--color3);
+    padding: 12px;
+    border-radius: 10px;
+}
+.underblock{
+    margin-left: 15px;
+}
